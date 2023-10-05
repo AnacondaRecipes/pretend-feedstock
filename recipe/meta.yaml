@@ -34,11 +34,12 @@ test:
 
 about:
   home: https://github.com/alex/pretend
-  license: BSD 3-Clause
+  license: BSD-3-Clause
   license_file: LICENSE.rst
   license_family: BSD
-  summary: 'A library for stubbing in Python'
+  summary: A library for stubbing in Python
   dev_url: https://github.com/alex/pretend
+  doc_url: https://github.com/alex/pretend
 
 extra:
   recipe-maintainers:
