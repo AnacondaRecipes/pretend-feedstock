@@ -36,6 +36,7 @@ about:
   license_file: LICENSE.rst
   license_family: BSD
   summary: A library for stubbing in Python
+  description: A library to make stubbing with Python easier.
   dev_url: https://github.com/alex/pretend
   doc_url: https://github.com/alex/pretend
 
